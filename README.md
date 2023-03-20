@@ -1,2 +1,2 @@
-# Financila_Risk_Analysis
+# Financial_Risk_Analysis
 Developed an Indian Credit Risk Model
